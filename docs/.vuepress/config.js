@@ -53,6 +53,12 @@ module.exports = {
                     }, {
                         text: '切角效果',
                         link: '/css/chamfer.md'
+                    }, {
+                        text: '梯形标签页',
+                        link: '/css/trapezoid.md'
+                    }, {
+                        text: '简单的饼图',
+                        link: '/css/pie.md'
                     }]
                 }
             ],

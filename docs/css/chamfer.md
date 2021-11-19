@@ -2,6 +2,9 @@
 prev: 
     text: 菱形
     link: ./diamond.md
+next: 
+    text: 梯形标签页
+    link: ./trapezoid.md
 ---
 
 # 直角切角
@@ -18,4 +21,4 @@ prev:
 # svg方案
 <css-chamfer class="flat-angle-svg"/>
 
-@[code{32-40} scss](../.vuepress/components/css-chamfer.vue)
+@[code{32-41} scss](../.vuepress/components/css-chamfer.vue)
