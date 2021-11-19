@@ -9,7 +9,15 @@ module.exports = {
         logo: '/logo.png',
         navbar: [{
             text: 'CSS',
-            link: '/css/supports',
+            children: [{
+                text: '小册',
+                link: '/css/supports',
+                activeMatch: '^/css/',
+            }, {
+                text: '展品',
+                link: '/css-exhibition/button',
+                activeMatch: '^/css-exhibition/',
+            }]
         }],
         sidebar: {
             '/css/': [
@@ -23,10 +31,37 @@ module.exports = {
                         link: '/css/multiple-border.md'
                     }, {
                         text: '条纹背景',
-                        link: '/css/stripe-background.md'
+                        link: '/css/bg-stripe.md'
                     }, {
-                        text: '边框圆角',
-                        link: '/css/border-radius.md'
+                        text: '背景图案',
+                        link: '/css/bg-pattern.md'
+                    }, {
+                        text: '伪随机背景',
+                        link: '/css/bg-random.md'
+                    }, {
+                        text: '连续的图像边框',
+                        link: '/css/bg-border-continuity.md'
+                    }, {
+                        text: '半椭圆',
+                        link: '/css/ellipse.md'
+                    }, {
+                        text: '平行四边形',
+                        link: '/css/parallelogram.md'
+                    }, {
+                        text: '菱形',
+                        link: '/css/diamond.md'
+                    }, {
+                        text: '切角效果',
+                        link: '/css/chamfer.md'
+                    }]
+                }
+            ],
+            '/css-exhibition/': [
+                {
+                    text: '展品',
+                    children: [{
+                        text: 'button',
+                        link: '/css-exhibition/button.md'
                     }]
                 }
             ]

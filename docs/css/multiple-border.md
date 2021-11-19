@@ -4,7 +4,7 @@ prev:
     link: ./supports.md
 next: 
     text: 条纹背景
-    link: ./stripe-background.md
+    link: ./bg-stripe.md
 ---
 
 # 多重边框
