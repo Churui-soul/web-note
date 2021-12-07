@@ -1,5 +1,6 @@
 const path = require('path')
-
+// css 变量修改方法
+// container.style.setProperty("--x", x + "px")
 module.exports = {
     lang: 'zh-CN',
     base: '/',
@@ -59,6 +60,9 @@ module.exports = {
                     }, {
                         text: '简单的饼图',
                         link: '/css/pie.md'
+                    }, {
+                        text: '简单的饼图-svg',
+                        link: '/css/pie-svg.md'
                     }]
                 }
             ],

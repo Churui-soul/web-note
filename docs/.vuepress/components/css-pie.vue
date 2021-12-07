@@ -4,7 +4,7 @@
 
 <style lang="scss" scoped>
 .pie {
-    width: 240px; height: 240px;
+    width: 200px; height: 200px;
     border-radius: 50%;
     background-image: linear-gradient(to right, var(--c-text) 50%, #C8E9A0 0);
 }

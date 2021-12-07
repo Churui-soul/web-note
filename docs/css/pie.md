@@ -2,6 +2,9 @@
 prev: 
     text: 梯形标签页
     link: ./trapezoid.md
+next: 
+    text: 简单的饼图-svg
+    link: ./pie-svg.md
 ---
 
 # 动态饼图
@@ -61,3 +64,8 @@ prev:
 
 <css-pie class="mask mask-animation mask-animation-paused" style="margin: 0 auto;animation-delay: -4s"/>
 
+
+## 多数据源示例
+<css-pie-demo :style="{ 'margin': '1rem auto' }"/>
+
+@[code{6-10} scss](../.vuepress/components/css-pie-demo.vue)
