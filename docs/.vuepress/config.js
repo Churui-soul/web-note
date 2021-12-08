@@ -63,6 +63,12 @@ module.exports = {
                     }, {
                         text: '简单的饼图-svg',
                         link: '/css/pie-svg.md'
+                    }, {
+                        text: '单侧投影',
+                        link: '/css/single-shadow.md'
+                    }, {
+                        text: '不规则图形投影',
+                        link: '/css/irregular-shadow.md'
                     }]
                 }
             ],

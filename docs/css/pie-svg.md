@@ -2,6 +2,9 @@
 prev: 
     text: 简单的饼图
     link: ./pie.md
+next: 
+    text: 单侧投影
+    link: ./single-shadow.md
 ---
 # 简单的饼图-SVG
 为了更好的控制饼图的百分比，这里我门将圆的周长设置为100
