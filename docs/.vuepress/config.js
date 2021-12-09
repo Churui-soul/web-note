@@ -69,6 +69,15 @@ module.exports = {
                     }, {
                         text: '不规则图形投影',
                         link: '/css/irregular-shadow.md'
+                    }, {
+                        text: '染色效果',
+                        link: '/css/dyeing.md'
+                    }, {
+                        text: '毛玻璃',
+                        link: '/css/ground-glass.md'
+                    }, {
+                        text: '折角效果',
+                        link: '/css/folding-angle.md'
                     }]
                 }
             ],

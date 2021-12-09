@@ -2,6 +2,9 @@
 prev: 
     text: 单侧投影
     link: ./single-shadow.md
+next: 
+    text: 染色效果
+    link: ./dyeing.md
 ---
 
 # 不规则图形投影
