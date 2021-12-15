@@ -78,6 +78,27 @@ module.exports = {
                     }, {
                         text: '折角效果',
                         link: '/css/folding-angle.md'
+                    }, {
+                        text: '插入换行',
+                        link: '/css/insert-newline.md'
+                    }, {
+                        text: '文本行的斑马条纹',
+                        link: '/css/textline-zebra-stripe.md'
+                    }, {
+                        text: '调整 tab 的宽度',
+                        link: '/css/reset-tab-width.md'
+                    }, {
+                        text: '华丽的 & 符号',
+                        link: '/css/string-replace.md'
+                    }, {
+                        text: '自定义下划线',
+                        link: '/css/diy-underline.md'
+                    }, {
+                        text: '现实中的文字效果',
+                        link: '/css/realy-text.md'
+                    }, {
+                        text: '环形文字',
+                        link: '/css/annular-text.md'
                     }]
                 }
             ],
