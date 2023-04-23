@@ -12,10 +12,10 @@ actions:
       type: primary
 features:
     - title: HTML
-      details: 搞一些一板正经的
+      details: 懒得写
     - title: CSS
-      details: 玩一些花里胡哨的
+      details: 懒得写
     - title: JavaScript
-      details: 耍一些稀奇古怪的
-footer: 装逼如风，常伴吾身
+      details: 懒得写
+footer: 呼哈！
 ---
